@@ -1,6 +1,5 @@
-[![MasterHead]([https://ccibeekeoc42.github.io/resume/images/teaching.png](https://media-exp1.licdn.com/dms/image/C4D16AQGp4ED6kV4QTw/profile-displaybackgroundimage-shrink_350_1400/0/1622409243401?e=1671667200&v=beta&t=ex30FBbcyhcMhJt0xW_t9O1nxzhmD_wfgwuW_ysSSlE))](https://ccibeekeoc42.github.io/resume/)
-<h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A software engineering manager</h3>
+[![MasterHead](https://ccibeekeoc42.github.io/resume/images/wallpaper.png)](https://ccibeekeoc42.github.io/resume/)
+<h1 align="center">A software engineering manager</h1>
 <img align="right" alt="Coding" width="400" src="https://ccibeekeoc42.github.io/resume/images/reading.png"/>
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning.**
